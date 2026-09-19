@@ -1,0 +1,2164 @@
+[
+  {
+    "id": "snk_asian_01",
+    "name": "Asian Men's Cosmo-01 White Casual Mesh Sneakers",
+    "description": "Amazon Choice: Light weight daily walking shoes with high-density EVA cushioning sole.",
+    "category": "sneakers",
+    "subcategory": "casual",
+    "brand": "Asian",
+    "price": 799.0,
+    "rating": 4.4,
+    "review_count": 18450,
+    "colors": [
+      "white"
+    ],
+    "sizes": [
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "material": "mesh",
+    "gender": "men",
+    "tags": [
+      "comfortable",
+      "lightweight",
+      "breathable",
+      "daily-wear",
+      "cushioned",
+      "soft"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1549298916-b41d501d3772?w=600&q=80",
+    "in_stock": true
+  },
+  {
+    "id": "snk_asian_02",
+    "name": "Asian Men's Tarzan-11 White Retro Casual Sneakers",
+    "description": "Bestseller in Footwear: Low-top white synthetic leather sneaker with anti-skid memory-foam inner sole.",
+    "category": "sneakers",
+    "subcategory": "casual",
+    "brand": "Asian",
+    "price": 899.0,
+    "rating": 4.5,
+    "review_count": 12840,
+    "colors": [
+      "white",
+      "grey"
+    ],
+    "sizes": [
+      "7",
+      "8",
+      "9",
+      "10",
+      "11"
+    ],
+    "material": "synthetic leather",
+    "gender": "men",
+    "tags": [
+      "comfortable",
+      "stylish",
+      "memory-foam",
+      "durable",
+      "cushioned"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?w=600&q=80",
+    "in_stock": true
+  },
+  {
+    "id": "snk_asian_03",
+    "name": "Asian Men's Express-08 White Air-Cushioned Running Shoes",
+    "description": "Air-cushioned shock-absorbent sole athletic sneaker with breathable flex-knit upper.",
+    "category": "sneakers",
+    "subcategory": "sports",
+    "brand": "Asian",
+    "price": 1299.0,
+    "rating": 4.7,
+    "review_count": 24100,
+    "colors": [
+      "white"
+    ],
+    "sizes": [
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "11"
+    ],
+    "material": "knit mesh",
+    "gender": "unisex",
+    "tags": [
+      "comfortable",
+      "air-cushioned",
+      "premium",
+      "lightweight",
+      "running",
+      "soft"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1560769629-975ec94e6a86?w=600&q=80",
+    "in_stock": true
+  },
+  {
+    "id": "snk_asian_04",
+    "name": "Asian Men's Bouncer-02 All-White Orthotic Pro Sneakers",
+    "description": "Ergonomic heel-support comfort pro sneaker engineered for long walking hours.",
+    "category": "sneakers",
+    "subcategory": "casual",
+    "brand": "Asian",
+    "price": 1449.0,
+    "rating": 4.6,
+    "review_count": 8920,
+    "colors": [
+      "white"
+    ],
+    "sizes": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "material": "mesh",
+    "gender": "men",
+    "tags": [
+      "comfortable",
+      "orthotic",
+      "pillow-soft",
+      "daily-wear",
+      "cushioned",
+      "premium"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?w=600&q=80",
+    "in_stock": true
+  },
+  {
+    "id": "wtc_titan_01",
+    "name": "Titan Karishma Analog Black Dial Genuine Leather Watch",
+    "description": "Amazon Choice: Elegant formal analog watch featuring mineral glass black dial and genuine leather strap.",
+    "category": "watches",
+    "subcategory": "analog",
+    "brand": "Titan",
+    "price": 1795.0,
+    "rating": 4.6,
+    "review_count": 28900,
+    "colors": [
+      "black"
+    ],
+    "sizes": [
+      "Free Size"
+    ],
+    "material": "leather",
+    "gender": "men",
+    "tags": [
+      "classy",
+      "formal",
+      "analog",
+      "leather",
+      "water-resistant",
+      "elegant"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1524805444758-089113d48a6d?w=600&q=80",
+    "in_stock": true
+  },
+  {
+    "id": "wtc_titan_02",
+    "name": "Titan Neo Minimalist Silver Dial Stainless Steel Mesh Watch",
+    "description": "Sleek silver analog timepiece with durable stainless steel mesh strap.",
+    "category": "watches",
+    "subcategory": "analog",
+    "brand": "Titan",
+    "price": 2495.0,
+    "rating": 4.7,
+    "review_count": 17400,
+    "colors": [
+      "silver"
+    ],
+    "sizes": [
+      "Free Size"
+    ],
+    "material": "stainless steel",
+    "gender": "unisex",
+    "tags": [
+      "minimalist",
+      "sleek",
+      "premium",
+      "analog",
+      "stainless-steel"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?w=600&q=80",
+    "in_stock": true
+  },
+  {
+    "id": "wtc_fastrack_01",
+    "name": "Fastrack Trendies Black Digital Waterproof Sports Watch",
+    "description": "Rugged youth digital watch with silicone strap, LED backlight, and stopwatch.",
+    "category": "watches",
+    "subcategory": "digital",
+    "brand": "Fastrack",
+    "price": 1195.0,
+    "rating": 4.4,
+    "review_count": 41200,
+    "colors": [
+      "black"
+    ],
+    "sizes": [
+      "Free Size"
+    ],
+    "material": "silicone",
+    "gender": "men",
+    "tags": [
+      "sporty",
+      "digital",
+      "water-resistant",
+      "rugged"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1542496658-e33a6d0d50f6?w=600&q=80",
+    "in_stock": true
+  },
+  {
+    "id": "wtc_casio_01",
+    "name": "Casio Vintage A168WA Gold Digital Stainless Steel Watch",
+    "description": "Iconic retro gold digital display watch featuring electro-luminescent backlight.",
+    "category": "watches",
+    "subcategory": "digital",
+    "brand": "Casio",
+    "price": 2995.0,
+    "rating": 4.8,
+    "review_count": 89000,
+    "colors": [
+      "gold"
+    ],
+    "sizes": [
+      "Free Size"
+    ],
+    "material": "stainless steel",
+    "gender": "unisex",
+    "tags": [
+      "vintage",
+      "iconic",
+      "gold",
+      "digital",
+      "premium"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1539185441755-769473a23570?w=600&q=80",
+    "in_stock": true
+  },
+  {
+    "id": "wtc_boat_01",
+    "name": "boAt Wave Call 1.69 HD Bluetooth Calling Smartwatch",
+    "description": "Bestseller in Smartwatches: Bluetooth phone calling, 100+ sports modes, SpO2 & heart rate tracker.",
+    "category": "watches",
+    "subcategory": "smartwatch",
+    "brand": "boAt",
+    "price": 1499.0,
+    "rating": 4.3,
+    "review_count": 125000,
+    "colors": [
+      "black"
+    ],
+    "sizes": [
+      "Free Size"
+    ],
+    "material": "silicone",
+    "gender": "unisex",
+    "tags": [
+      "smartwatch",
+      "bluetooth-calling",
+      "fitness",
+      "water-resistant"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1508685096489-7aacd43bd3b1?w=600&q=80",
+    "in_stock": true
+  },
+  {
+    "id": "wtc_fossil_01",
+    "name": "Fossil Gen 6 Touchscreen Brown Leather Smartwatch",
+    "description": "Luxury Wear OS smartwatch with AMOLED display, Snapdragon 4100+ processor.",
+    "category": "watches",
+    "subcategory": "smartwatch",
+    "brand": "Fossil",
+    "price": 14995.0,
+    "rating": 4.6,
+    "review_count": 14500,
+    "colors": [
+      "brown"
+    ],
+    "sizes": [
+      "Free Size"
+    ],
+    "material": "leather",
+    "gender": "men",
+    "tags": [
+      "luxury",
+      "touchscreen",
+      "smartwatch",
+      "leather"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=600&q=80",
+    "in_stock": true
+  },
+  {
+    "id": "shoe_proc_001",
+    "name": "Asian Men's Black Sneakers",
+    "description": "Official Asian sneakers featuring anti-skid durable sole in black.",
+    "category": "sneakers",
+    "subcategory": "casual",
+    "brand": "Asian",
+    "price": 1499.0,
+    "rating": 4.5,
+    "review_count": 16222,
+    "colors": [
+      "black"
+    ],
+    "sizes": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "material": "mesh",
+    "gender": "men",
+    "tags": [
+      "comfortable",
+      "daily-wear",
+      "lightweight"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1584735935682-2f2b69dff9d2?w=600&q=80",
+    "in_stock": true
+  },
+  {
+    "id": "shoe_proc_002",
+    "name": "Asian Men's White Running shoes",
+    "description": "Official Asian running shoes featuring anti-skid durable sole in white.",
+    "category": "running_shoes",
+    "subcategory": "casual",
+    "brand": "Asian",
+    "price": 899.0,
+    "rating": 4.6,
+    "review_count": 14234,
+    "colors": [
+      "white"
+    ],
+    "sizes": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "material": "synthetic leather",
+    "gender": "men",
+    "tags": [
+      "comfortable",
+      "daily-wear",
+      "lightweight"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1549298916-b41d501d3772?w=600&q=80",
+    "in_stock": true
+  },
+  {
+    "id": "shoe_proc_003",
+    "name": "Asian Men's Black Casual shoes",
+    "description": "Official Asian casual shoes featuring anti-skid durable sole in black.",
+    "category": "casual_shoes",
+    "subcategory": "casual",
+    "brand": "Asian",
+    "price": 1799.0,
+    "rating": 4.5,
+    "review_count": 9826,
+    "colors": [
+      "black"
+    ],
+    "sizes": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "material": "mesh",
+    "gender": "men",
+    "tags": [
+      "premium",
+      "durable",
+      "stylish"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1584735935682-2f2b69dff9d2?w=600&q=80",
+    "in_stock": true
+  },
+  {
+    "id": "shoe_proc_004",
+    "name": "Asian Men's Black Formal shoes",
+    "description": "Official Asian formal shoes featuring anti-skid durable sole in black.",
+    "category": "formal_shoes",
+    "subcategory": "casual",
+    "brand": "Asian",
+    "price": 1799.0,
+    "rating": 4.2,
+    "review_count": 9099,
+    "colors": [
+      "black"
+    ],
+    "sizes": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "material": "mesh",
+    "gender": "men",
+    "tags": [
+      "premium",
+      "durable",
+      "stylish"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1614252235316-8c857d38b5f4?w=600&q=80",
+    "in_stock": true
+  },
+  {
+    "id": "shoe_proc_005",
+    "name": "Campus Men's Black Sneakers",
+    "description": "Official Campus sneakers featuring anti-skid durable sole in black.",
+    "category": "sneakers",
+    "subcategory": "casual",
+    "brand": "Campus",
+    "price": 1299.0,
+    "rating": 4.2,
+    "review_count": 17794,
+    "colors": [
+      "black"
+    ],
+    "sizes": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "material": "mesh",
+    "gender": "men",
+    "tags": [
+      "comfortable",
+      "daily-wear",
+      "lightweight"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1584735935682-2f2b69dff9d2?w=600&q=80",
+    "in_stock": true
+  },
+  {
+    "id": "shoe_proc_006",
+    "name": "Campus Men's Black Running shoes",
+    "description": "Official Campus running shoes featuring anti-skid durable sole in black.",
+    "category": "running_shoes",
+    "subcategory": "casual",
+    "brand": "Campus",
+    "price": 2499.0,
+    "rating": 4.5,
+    "review_count": 13808,
+    "colors": [
+      "black"
+    ],
+    "sizes": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "material": "mesh",
+    "gender": "men",
+    "tags": [
+      "premium",
+      "durable",
+      "stylish"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1584735935682-2f2b69dff9d2?w=600&q=80",
+    "in_stock": true
+  },
+  {
+    "id": "shoe_proc_007",
+    "name": "Campus Men's Black Casual shoes",
+    "description": "Official Campus casual shoes featuring anti-skid durable sole in black.",
+    "category": "casual_shoes",
+    "subcategory": "casual",
+    "brand": "Campus",
+    "price": 1799.0,
+    "rating": 4.3,
+    "review_count": 6112,
+    "colors": [
+      "black"
+    ],
+    "sizes": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "material": "mesh",
+    "gender": "men",
+    "tags": [
+      "premium",
+      "durable",
+      "stylish"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1584735935682-2f2b69dff9d2?w=600&q=80",
+    "in_stock": true
+  },
+  {
+    "id": "shoe_proc_008",
+    "name": "Campus Men's White Formal shoes",
+    "description": "Official Campus formal shoes featuring anti-skid durable sole in white.",
+    "category": "formal_shoes",
+    "subcategory": "casual",
+    "brand": "Campus",
+    "price": 899.0,
+    "rating": 4.4,
+    "review_count": 14127,
+    "colors": [
+      "white"
+    ],
+    "sizes": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "material": "synthetic leather",
+    "gender": "men",
+    "tags": [
+      "comfortable",
+      "daily-wear",
+      "lightweight"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1614252235316-8c857d38b5f4?w=600&q=80",
+    "in_stock": true
+  },
+  {
+    "id": "shoe_proc_009",
+    "name": "Sparx Men's Black Sneakers",
+    "description": "Official Sparx sneakers featuring anti-skid durable sole in black.",
+    "category": "sneakers",
+    "subcategory": "casual",
+    "brand": "Sparx",
+    "price": 1299.0,
+    "rating": 4.4,
+    "review_count": 3386,
+    "colors": [
+      "black"
+    ],
+    "sizes": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "material": "mesh",
+    "gender": "men",
+    "tags": [
+      "comfortable",
+      "daily-wear",
+      "lightweight"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1584735935682-2f2b69dff9d2?w=600&q=80",
+    "in_stock": true
+  },
+  {
+    "id": "shoe_proc_010",
+    "name": "Sparx Men's Black Running shoes",
+    "description": "Official Sparx running shoes featuring anti-skid durable sole in black.",
+    "category": "running_shoes",
+    "subcategory": "casual",
+    "brand": "Sparx",
+    "price": 999.0,
+    "rating": 4.2,
+    "review_count": 8948,
+    "colors": [
+      "black"
+    ],
+    "sizes": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "material": "mesh",
+    "gender": "men",
+    "tags": [
+      "comfortable",
+      "daily-wear",
+      "lightweight"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1584735935682-2f2b69dff9d2?w=600&q=80",
+    "in_stock": true
+  },
+  {
+    "id": "shoe_proc_011",
+    "name": "Sparx Men's White Casual shoes",
+    "description": "Official Sparx casual shoes featuring anti-skid durable sole in white.",
+    "category": "casual_shoes",
+    "subcategory": "casual",
+    "brand": "Sparx",
+    "price": 699.0,
+    "rating": 4.7,
+    "review_count": 4096,
+    "colors": [
+      "white"
+    ],
+    "sizes": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "material": "synthetic leather",
+    "gender": "men",
+    "tags": [
+      "comfortable",
+      "daily-wear",
+      "lightweight"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?w=600&q=80",
+    "in_stock": true
+  },
+  {
+    "id": "shoe_proc_012",
+    "name": "Sparx Men's White Formal shoes",
+    "description": "Official Sparx formal shoes featuring anti-skid durable sole in white.",
+    "category": "formal_shoes",
+    "subcategory": "casual",
+    "brand": "Sparx",
+    "price": 999.0,
+    "rating": 4.5,
+    "review_count": 12858,
+    "colors": [
+      "white"
+    ],
+    "sizes": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "material": "synthetic leather",
+    "gender": "men",
+    "tags": [
+      "comfortable",
+      "daily-wear",
+      "lightweight"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1614252235316-8c857d38b5f4?w=600&q=80",
+    "in_stock": true
+  },
+  {
+    "id": "shoe_proc_013",
+    "name": "Nike Men's White Sneakers",
+    "description": "Official Nike sneakers featuring anti-skid durable sole in white.",
+    "category": "sneakers",
+    "subcategory": "casual",
+    "brand": "Nike",
+    "price": 2999.0,
+    "rating": 4.1,
+    "review_count": 4858,
+    "colors": [
+      "white"
+    ],
+    "sizes": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "material": "synthetic leather",
+    "gender": "men",
+    "tags": [
+      "premium",
+      "durable",
+      "stylish"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?w=600&q=80",
+    "in_stock": true
+  },
+  {
+    "id": "shoe_proc_014",
+    "name": "Nike Men's White Running shoes",
+    "description": "Official Nike running shoes featuring anti-skid durable sole in white.",
+    "category": "running_shoes",
+    "subcategory": "casual",
+    "brand": "Nike",
+    "price": 2999.0,
+    "rating": 4.8,
+    "review_count": 1572,
+    "colors": [
+      "white"
+    ],
+    "sizes": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "material": "synthetic leather",
+    "gender": "men",
+    "tags": [
+      "premium",
+      "durable",
+      "stylish"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1549298916-b41d501d3772?w=600&q=80",
+    "in_stock": true
+  },
+  {
+    "id": "shoe_proc_015",
+    "name": "Nike Men's White Casual shoes",
+    "description": "Official Nike casual shoes featuring anti-skid durable sole in white.",
+    "category": "casual_shoes",
+    "subcategory": "casual",
+    "brand": "Nike",
+    "price": 899.0,
+    "rating": 4.7,
+    "review_count": 8584,
+    "colors": [
+      "white"
+    ],
+    "sizes": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "material": "synthetic leather",
+    "gender": "men",
+    "tags": [
+      "comfortable",
+      "daily-wear",
+      "lightweight"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?w=600&q=80",
+    "in_stock": true
+  },
+  {
+    "id": "shoe_proc_016",
+    "name": "Nike Men's Black Formal shoes",
+    "description": "Official Nike formal shoes featuring anti-skid durable sole in black.",
+    "category": "formal_shoes",
+    "subcategory": "casual",
+    "brand": "Nike",
+    "price": 2999.0,
+    "rating": 4.5,
+    "review_count": 3486,
+    "colors": [
+      "black"
+    ],
+    "sizes": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "material": "mesh",
+    "gender": "men",
+    "tags": [
+      "premium",
+      "durable",
+      "stylish"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1614252235316-8c857d38b5f4?w=600&q=80",
+    "in_stock": true
+  },
+  {
+    "id": "shoe_proc_017",
+    "name": "Puma Men's White Sneakers",
+    "description": "Official Puma sneakers featuring anti-skid durable sole in white.",
+    "category": "sneakers",
+    "subcategory": "casual",
+    "brand": "Puma",
+    "price": 1799.0,
+    "rating": 4.5,
+    "review_count": 11370,
+    "colors": [
+      "white"
+    ],
+    "sizes": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "material": "synthetic leather",
+    "gender": "men",
+    "tags": [
+      "premium",
+      "durable",
+      "stylish"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?w=600&q=80",
+    "in_stock": true
+  },
+  {
+    "id": "shoe_proc_018",
+    "name": "Puma Men's Black Running shoes",
+    "description": "Official Puma running shoes featuring anti-skid durable sole in black.",
+    "category": "running_shoes",
+    "subcategory": "casual",
+    "brand": "Puma",
+    "price": 999.0,
+    "rating": 4.6,
+    "review_count": 12507,
+    "colors": [
+      "black"
+    ],
+    "sizes": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "material": "mesh",
+    "gender": "men",
+    "tags": [
+      "comfortable",
+      "daily-wear",
+      "lightweight"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=600&q=80",
+    "in_stock": true
+  },
+  {
+    "id": "shoe_proc_019",
+    "name": "Puma Men's Black Casual shoes",
+    "description": "Official Puma casual shoes featuring anti-skid durable sole in black.",
+    "category": "casual_shoes",
+    "subcategory": "casual",
+    "brand": "Puma",
+    "price": 699.0,
+    "rating": 4.3,
+    "review_count": 5133,
+    "colors": [
+      "black"
+    ],
+    "sizes": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "material": "mesh",
+    "gender": "men",
+    "tags": [
+      "comfortable",
+      "daily-wear",
+      "lightweight"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1584735935682-2f2b69dff9d2?w=600&q=80",
+    "in_stock": true
+  },
+  {
+    "id": "shoe_proc_020",
+    "name": "Puma Men's Black Formal shoes",
+    "description": "Official Puma formal shoes featuring anti-skid durable sole in black.",
+    "category": "formal_shoes",
+    "subcategory": "casual",
+    "brand": "Puma",
+    "price": 2499.0,
+    "rating": 4.6,
+    "review_count": 4603,
+    "colors": [
+      "black"
+    ],
+    "sizes": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "material": "mesh",
+    "gender": "men",
+    "tags": [
+      "premium",
+      "durable",
+      "stylish"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1614252235316-8c857d38b5f4?w=600&q=80",
+    "in_stock": true
+  },
+  {
+    "id": "shoe_proc_021",
+    "name": "Adidas Men's White Sneakers",
+    "description": "Official Adidas sneakers featuring anti-skid durable sole in white.",
+    "category": "sneakers",
+    "subcategory": "casual",
+    "brand": "Adidas",
+    "price": 2999.0,
+    "rating": 4.6,
+    "review_count": 1552,
+    "colors": [
+      "white"
+    ],
+    "sizes": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "material": "synthetic leather",
+    "gender": "men",
+    "tags": [
+      "premium",
+      "durable",
+      "stylish"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?w=600&q=80",
+    "in_stock": true
+  },
+  {
+    "id": "shoe_proc_022",
+    "name": "Adidas Men's Black Running shoes",
+    "description": "Official Adidas running shoes featuring anti-skid durable sole in black.",
+    "category": "running_shoes",
+    "subcategory": "casual",
+    "brand": "Adidas",
+    "price": 899.0,
+    "rating": 4.3,
+    "review_count": 4016,
+    "colors": [
+      "black"
+    ],
+    "sizes": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "material": "mesh",
+    "gender": "men",
+    "tags": [
+      "comfortable",
+      "daily-wear",
+      "lightweight"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1584735935682-2f2b69dff9d2?w=600&q=80",
+    "in_stock": true
+  },
+  {
+    "id": "shoe_proc_023",
+    "name": "Adidas Men's White Casual shoes",
+    "description": "Official Adidas casual shoes featuring anti-skid durable sole in white.",
+    "category": "casual_shoes",
+    "subcategory": "casual",
+    "brand": "Adidas",
+    "price": 699.0,
+    "rating": 4.8,
+    "review_count": 14628,
+    "colors": [
+      "white"
+    ],
+    "sizes": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "material": "synthetic leather",
+    "gender": "men",
+    "tags": [
+      "comfortable",
+      "daily-wear",
+      "lightweight"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?w=600&q=80",
+    "in_stock": true
+  },
+  {
+    "id": "shoe_proc_024",
+    "name": "Adidas Men's White Formal shoes",
+    "description": "Official Adidas formal shoes featuring anti-skid durable sole in white.",
+    "category": "formal_shoes",
+    "subcategory": "casual",
+    "brand": "Adidas",
+    "price": 1299.0,
+    "rating": 4.7,
+    "review_count": 13485,
+    "colors": [
+      "white"
+    ],
+    "sizes": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "material": "synthetic leather",
+    "gender": "men",
+    "tags": [
+      "comfortable",
+      "daily-wear",
+      "lightweight"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1614252235316-8c857d38b5f4?w=600&q=80",
+    "in_stock": true
+  },
+  {
+    "id": "shoe_proc_025",
+    "name": "Bata Men's Black Sneakers",
+    "description": "Official Bata sneakers featuring anti-skid durable sole in black.",
+    "category": "sneakers",
+    "subcategory": "casual",
+    "brand": "Bata",
+    "price": 1499.0,
+    "rating": 4.5,
+    "review_count": 13296,
+    "colors": [
+      "black"
+    ],
+    "sizes": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "material": "mesh",
+    "gender": "men",
+    "tags": [
+      "comfortable",
+      "daily-wear",
+      "lightweight"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1584735935682-2f2b69dff9d2?w=600&q=80",
+    "in_stock": true
+  },
+  {
+    "id": "shoe_proc_026",
+    "name": "Bata Men's Black Running shoes",
+    "description": "Official Bata running shoes featuring anti-skid durable sole in black.",
+    "category": "running_shoes",
+    "subcategory": "casual",
+    "brand": "Bata",
+    "price": 2499.0,
+    "rating": 4.3,
+    "review_count": 15361,
+    "colors": [
+      "black"
+    ],
+    "sizes": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "material": "mesh",
+    "gender": "men",
+    "tags": [
+      "premium",
+      "durable",
+      "stylish"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=600&q=80",
+    "in_stock": true
+  },
+  {
+    "id": "shoe_proc_027",
+    "name": "Bata Men's Black Casual shoes",
+    "description": "Official Bata casual shoes featuring anti-skid durable sole in black.",
+    "category": "casual_shoes",
+    "subcategory": "casual",
+    "brand": "Bata",
+    "price": 1499.0,
+    "rating": 4.3,
+    "review_count": 7598,
+    "colors": [
+      "black"
+    ],
+    "sizes": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "material": "mesh",
+    "gender": "men",
+    "tags": [
+      "comfortable",
+      "daily-wear",
+      "lightweight"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1584735935682-2f2b69dff9d2?w=600&q=80",
+    "in_stock": true
+  },
+  {
+    "id": "shoe_proc_028",
+    "name": "Bata Men's Black Formal shoes",
+    "description": "Official Bata formal shoes featuring anti-skid durable sole in black.",
+    "category": "formal_shoes",
+    "subcategory": "casual",
+    "brand": "Bata",
+    "price": 2999.0,
+    "rating": 4.5,
+    "review_count": 11033,
+    "colors": [
+      "black"
+    ],
+    "sizes": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "material": "mesh",
+    "gender": "men",
+    "tags": [
+      "premium",
+      "durable",
+      "stylish"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1614252235316-8c857d38b5f4?w=600&q=80",
+    "in_stock": true
+  },
+  {
+    "id": "shoe_proc_029",
+    "name": "Red Tape Men's White Sneakers",
+    "description": "Official Red Tape sneakers featuring anti-skid durable sole in white.",
+    "category": "sneakers",
+    "subcategory": "casual",
+    "brand": "Red Tape",
+    "price": 1299.0,
+    "rating": 4.1,
+    "review_count": 2019,
+    "colors": [
+      "white"
+    ],
+    "sizes": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "material": "synthetic leather",
+    "gender": "men",
+    "tags": [
+      "comfortable",
+      "daily-wear",
+      "lightweight"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?w=600&q=80",
+    "in_stock": true
+  },
+  {
+    "id": "shoe_proc_030",
+    "name": "Red Tape Men's White Running shoes",
+    "description": "Official Red Tape running shoes featuring anti-skid durable sole in white.",
+    "category": "running_shoes",
+    "subcategory": "casual",
+    "brand": "Red Tape",
+    "price": 1799.0,
+    "rating": 4.2,
+    "review_count": 1869,
+    "colors": [
+      "white"
+    ],
+    "sizes": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "material": "synthetic leather",
+    "gender": "men",
+    "tags": [
+      "premium",
+      "durable",
+      "stylish"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1560769629-975ec94e6a86?w=600&q=80",
+    "in_stock": true
+  },
+  {
+    "id": "shoe_proc_031",
+    "name": "Red Tape Men's Black Casual shoes",
+    "description": "Official Red Tape casual shoes featuring anti-skid durable sole in black.",
+    "category": "casual_shoes",
+    "subcategory": "casual",
+    "brand": "Red Tape",
+    "price": 1499.0,
+    "rating": 4.5,
+    "review_count": 8411,
+    "colors": [
+      "black"
+    ],
+    "sizes": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "material": "mesh",
+    "gender": "men",
+    "tags": [
+      "comfortable",
+      "daily-wear",
+      "lightweight"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=600&q=80",
+    "in_stock": true
+  },
+  {
+    "id": "shoe_proc_032",
+    "name": "Red Tape Men's White Formal shoes",
+    "description": "Official Red Tape formal shoes featuring anti-skid durable sole in white.",
+    "category": "formal_shoes",
+    "subcategory": "casual",
+    "brand": "Red Tape",
+    "price": 1299.0,
+    "rating": 4.1,
+    "review_count": 17893,
+    "colors": [
+      "white"
+    ],
+    "sizes": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "material": "synthetic leather",
+    "gender": "men",
+    "tags": [
+      "comfortable",
+      "daily-wear",
+      "lightweight"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1614252235316-8c857d38b5f4?w=600&q=80",
+    "in_stock": true
+  },
+  {
+    "id": "watch_proc_033",
+    "name": "Titan Black Dial Analog Watch",
+    "description": "Authentic Titan analog watch with black dial and durable strap.",
+    "category": "watches",
+    "subcategory": "analog",
+    "brand": "Titan",
+    "price": 1195.0,
+    "rating": 4.8,
+    "review_count": 8957,
+    "colors": [
+      "black"
+    ],
+    "sizes": [
+      "Free Size"
+    ],
+    "material": "leather",
+    "gender": "unisex",
+    "tags": [
+      "water-resistant",
+      "classy",
+      "stylish"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1524805444758-089113d48a6d?w=600&q=80",
+    "in_stock": true
+  },
+  {
+    "id": "watch_proc_034",
+    "name": "Titan Gold Dial Digital Watch",
+    "description": "Authentic Titan digital watch with gold dial and durable strap.",
+    "category": "watches",
+    "subcategory": "digital",
+    "brand": "Titan",
+    "price": 899.0,
+    "rating": 4.6,
+    "review_count": 20653,
+    "colors": [
+      "gold"
+    ],
+    "sizes": [
+      "Free Size"
+    ],
+    "material": "silicone",
+    "gender": "unisex",
+    "tags": [
+      "water-resistant",
+      "classy",
+      "stylish"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1542496658-e33a6d0d50f6?w=600&q=80",
+    "in_stock": true
+  },
+  {
+    "id": "watch_proc_035",
+    "name": "Titan Silver Dial Smartwatch Watch",
+    "description": "Authentic Titan smartwatch watch with silver dial and durable strap.",
+    "category": "watches",
+    "subcategory": "smartwatch",
+    "brand": "Titan",
+    "price": 2499.0,
+    "rating": 4.3,
+    "review_count": 13454,
+    "colors": [
+      "silver"
+    ],
+    "sizes": [
+      "Free Size"
+    ],
+    "material": "silicone",
+    "gender": "unisex",
+    "tags": [
+      "smartwatch",
+      "fitness",
+      "bluetooth"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1579586337278-3befd40fd17a?w=600&q=80",
+    "in_stock": true
+  },
+  {
+    "id": "watch_proc_036",
+    "name": "Titan Gold Dial Chronograph Watch",
+    "description": "Authentic Titan chronograph watch with gold dial and durable strap.",
+    "category": "watches",
+    "subcategory": "chronograph",
+    "brand": "Titan",
+    "price": 1195.0,
+    "rating": 4.3,
+    "review_count": 8668,
+    "colors": [
+      "gold"
+    ],
+    "sizes": [
+      "Free Size"
+    ],
+    "material": "silicone",
+    "gender": "unisex",
+    "tags": [
+      "water-resistant",
+      "classy",
+      "stylish"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1533139502658-0198f920d8e8?w=600&q=80",
+    "in_stock": true
+  },
+  {
+    "id": "watch_proc_037",
+    "name": "Fastrack Black Dial Analog Watch",
+    "description": "Authentic Fastrack analog watch with black dial and durable strap.",
+    "category": "watches",
+    "subcategory": "analog",
+    "brand": "Fastrack",
+    "price": 899.0,
+    "rating": 4.5,
+    "review_count": 17598,
+    "colors": [
+      "black"
+    ],
+    "sizes": [
+      "Free Size"
+    ],
+    "material": "leather",
+    "gender": "unisex",
+    "tags": [
+      "water-resistant",
+      "classy",
+      "stylish"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?w=600&q=80",
+    "in_stock": true
+  },
+  {
+    "id": "watch_proc_038",
+    "name": "Fastrack Black Dial Digital Watch",
+    "description": "Authentic Fastrack digital watch with black dial and durable strap.",
+    "category": "watches",
+    "subcategory": "digital",
+    "brand": "Fastrack",
+    "price": 3495.0,
+    "rating": 4.6,
+    "review_count": 10037,
+    "colors": [
+      "black"
+    ],
+    "sizes": [
+      "Free Size"
+    ],
+    "material": "silicone",
+    "gender": "unisex",
+    "tags": [
+      "water-resistant",
+      "classy",
+      "stylish"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1542496658-e33a6d0d50f6?w=600&q=80",
+    "in_stock": true
+  },
+  {
+    "id": "watch_proc_039",
+    "name": "Fastrack Black Dial Smartwatch Watch",
+    "description": "Authentic Fastrack smartwatch watch with black dial and durable strap.",
+    "category": "watches",
+    "subcategory": "smartwatch",
+    "brand": "Fastrack",
+    "price": 3999.0,
+    "rating": 4.5,
+    "review_count": 14102,
+    "colors": [
+      "black"
+    ],
+    "sizes": [
+      "Free Size"
+    ],
+    "material": "silicone",
+    "gender": "unisex",
+    "tags": [
+      "smartwatch",
+      "fitness",
+      "bluetooth"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1508685096489-7aacd43bd3b1?w=600&q=80",
+    "in_stock": true
+  },
+  {
+    "id": "watch_proc_040",
+    "name": "Fastrack Black Dial Chronograph Watch",
+    "description": "Authentic Fastrack chronograph watch with black dial and durable strap.",
+    "category": "watches",
+    "subcategory": "chronograph",
+    "brand": "Fastrack",
+    "price": 1195.0,
+    "rating": 4.7,
+    "review_count": 20232,
+    "colors": [
+      "black"
+    ],
+    "sizes": [
+      "Free Size"
+    ],
+    "material": "silicone",
+    "gender": "unisex",
+    "tags": [
+      "water-resistant",
+      "classy",
+      "stylish"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1524805444758-089113d48a6d?w=600&q=80",
+    "in_stock": true
+  },
+  {
+    "id": "watch_proc_041",
+    "name": "Casio Silver Dial Analog Watch",
+    "description": "Authentic Casio analog watch with silver dial and durable strap.",
+    "category": "watches",
+    "subcategory": "analog",
+    "brand": "Casio",
+    "price": 1795.0,
+    "rating": 4.5,
+    "review_count": 14959,
+    "colors": [
+      "silver"
+    ],
+    "sizes": [
+      "Free Size"
+    ],
+    "material": "leather",
+    "gender": "unisex",
+    "tags": [
+      "water-resistant",
+      "classy",
+      "stylish"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?w=600&q=80",
+    "in_stock": true
+  },
+  {
+    "id": "watch_proc_042",
+    "name": "Casio Gold Dial Digital Watch",
+    "description": "Authentic Casio digital watch with gold dial and durable strap.",
+    "category": "watches",
+    "subcategory": "digital",
+    "brand": "Casio",
+    "price": 1195.0,
+    "rating": 4.6,
+    "review_count": 23304,
+    "colors": [
+      "gold"
+    ],
+    "sizes": [
+      "Free Size"
+    ],
+    "material": "silicone",
+    "gender": "unisex",
+    "tags": [
+      "water-resistant",
+      "classy",
+      "stylish"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1542496658-e33a6d0d50f6?w=600&q=80",
+    "in_stock": true
+  },
+  {
+    "id": "watch_proc_043",
+    "name": "Casio Silver Dial Smartwatch Watch",
+    "description": "Authentic Casio smartwatch watch with silver dial and durable strap.",
+    "category": "watches",
+    "subcategory": "smartwatch",
+    "brand": "Casio",
+    "price": 2999.0,
+    "rating": 4.5,
+    "review_count": 33972,
+    "colors": [
+      "silver"
+    ],
+    "sizes": [
+      "Free Size"
+    ],
+    "material": "silicone",
+    "gender": "unisex",
+    "tags": [
+      "smartwatch",
+      "fitness",
+      "bluetooth"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1508685096489-7aacd43bd3b1?w=600&q=80",
+    "in_stock": true
+  },
+  {
+    "id": "watch_proc_044",
+    "name": "Casio Gold Dial Chronograph Watch",
+    "description": "Authentic Casio chronograph watch with gold dial and durable strap.",
+    "category": "watches",
+    "subcategory": "chronograph",
+    "brand": "Casio",
+    "price": 1195.0,
+    "rating": 4.5,
+    "review_count": 21107,
+    "colors": [
+      "gold"
+    ],
+    "sizes": [
+      "Free Size"
+    ],
+    "material": "silicone",
+    "gender": "unisex",
+    "tags": [
+      "water-resistant",
+      "classy",
+      "stylish"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1533139502658-0198f920d8e8?w=600&q=80",
+    "in_stock": true
+  },
+  {
+    "id": "watch_proc_045",
+    "name": "Fossil Silver Dial Analog Watch",
+    "description": "Authentic Fossil analog watch with silver dial and durable strap.",
+    "category": "watches",
+    "subcategory": "analog",
+    "brand": "Fossil",
+    "price": 899.0,
+    "rating": 4.8,
+    "review_count": 11847,
+    "colors": [
+      "silver"
+    ],
+    "sizes": [
+      "Free Size"
+    ],
+    "material": "leather",
+    "gender": "unisex",
+    "tags": [
+      "water-resistant",
+      "classy",
+      "stylish"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?w=600&q=80",
+    "in_stock": true
+  },
+  {
+    "id": "watch_proc_046",
+    "name": "Fossil Black Dial Digital Watch",
+    "description": "Authentic Fossil digital watch with black dial and durable strap.",
+    "category": "watches",
+    "subcategory": "digital",
+    "brand": "Fossil",
+    "price": 1795.0,
+    "rating": 4.9,
+    "review_count": 12902,
+    "colors": [
+      "black"
+    ],
+    "sizes": [
+      "Free Size"
+    ],
+    "material": "silicone",
+    "gender": "unisex",
+    "tags": [
+      "water-resistant",
+      "classy",
+      "stylish"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1539185441755-769473a23570?w=600&q=80",
+    "in_stock": true
+  },
+  {
+    "id": "watch_proc_047",
+    "name": "Fossil Silver Dial Smartwatch Watch",
+    "description": "Authentic Fossil smartwatch watch with silver dial and durable strap.",
+    "category": "watches",
+    "subcategory": "smartwatch",
+    "brand": "Fossil",
+    "price": 2499.0,
+    "rating": 4.5,
+    "review_count": 14106,
+    "colors": [
+      "silver"
+    ],
+    "sizes": [
+      "Free Size"
+    ],
+    "material": "silicone",
+    "gender": "unisex",
+    "tags": [
+      "smartwatch",
+      "fitness",
+      "bluetooth"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1579586337278-3befd40fd17a?w=600&q=80",
+    "in_stock": true
+  },
+  {
+    "id": "watch_proc_048",
+    "name": "Fossil Black Dial Chronograph Watch",
+    "description": "Authentic Fossil chronograph watch with black dial and durable strap.",
+    "category": "watches",
+    "subcategory": "chronograph",
+    "brand": "Fossil",
+    "price": 2495.0,
+    "rating": 4.8,
+    "review_count": 9600,
+    "colors": [
+      "black"
+    ],
+    "sizes": [
+      "Free Size"
+    ],
+    "material": "silicone",
+    "gender": "unisex",
+    "tags": [
+      "water-resistant",
+      "classy",
+      "stylish"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1524805444758-089113d48a6d?w=600&q=80",
+    "in_stock": true
+  },
+  {
+    "id": "watch_proc_049",
+    "name": "Timex Gold Dial Analog Watch",
+    "description": "Authentic Timex analog watch with gold dial and durable strap.",
+    "category": "watches",
+    "subcategory": "analog",
+    "brand": "Timex",
+    "price": 2495.0,
+    "rating": 4.4,
+    "review_count": 21068,
+    "colors": [
+      "gold"
+    ],
+    "sizes": [
+      "Free Size"
+    ],
+    "material": "leather",
+    "gender": "unisex",
+    "tags": [
+      "water-resistant",
+      "classy",
+      "stylish"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1524805444758-089113d48a6d?w=600&q=80",
+    "in_stock": true
+  },
+  {
+    "id": "watch_proc_050",
+    "name": "Timex Silver Dial Digital Watch",
+    "description": "Authentic Timex digital watch with silver dial and durable strap.",
+    "category": "watches",
+    "subcategory": "digital",
+    "brand": "Timex",
+    "price": 2495.0,
+    "rating": 4.3,
+    "review_count": 21155,
+    "colors": [
+      "silver"
+    ],
+    "sizes": [
+      "Free Size"
+    ],
+    "material": "silicone",
+    "gender": "unisex",
+    "tags": [
+      "water-resistant",
+      "classy",
+      "stylish"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1539185441755-769473a23570?w=600&q=80",
+    "in_stock": true
+  },
+  {
+    "id": "watch_proc_051",
+    "name": "Timex Black Dial Smartwatch Watch",
+    "description": "Authentic Timex smartwatch watch with black dial and durable strap.",
+    "category": "watches",
+    "subcategory": "smartwatch",
+    "brand": "Timex",
+    "price": 1299.0,
+    "rating": 4.6,
+    "review_count": 27406,
+    "colors": [
+      "black"
+    ],
+    "sizes": [
+      "Free Size"
+    ],
+    "material": "silicone",
+    "gender": "unisex",
+    "tags": [
+      "smartwatch",
+      "fitness",
+      "bluetooth"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=600&q=80",
+    "in_stock": true
+  },
+  {
+    "id": "watch_proc_052",
+    "name": "Timex Silver Dial Chronograph Watch",
+    "description": "Authentic Timex chronograph watch with silver dial and durable strap.",
+    "category": "watches",
+    "subcategory": "chronograph",
+    "brand": "Timex",
+    "price": 3495.0,
+    "rating": 4.9,
+    "review_count": 19117,
+    "colors": [
+      "silver"
+    ],
+    "sizes": [
+      "Free Size"
+    ],
+    "material": "silicone",
+    "gender": "unisex",
+    "tags": [
+      "water-resistant",
+      "classy",
+      "stylish"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1524805444758-089113d48a6d?w=600&q=80",
+    "in_stock": true
+  },
+  {
+    "id": "watch_proc_053",
+    "name": "boAt Silver Dial Analog Watch",
+    "description": "Authentic boAt analog watch with silver dial and durable strap.",
+    "category": "watches",
+    "subcategory": "analog",
+    "brand": "boAt",
+    "price": 899.0,
+    "rating": 4.4,
+    "review_count": 20817,
+    "colors": [
+      "silver"
+    ],
+    "sizes": [
+      "Free Size"
+    ],
+    "material": "leather",
+    "gender": "unisex",
+    "tags": [
+      "water-resistant",
+      "classy",
+      "stylish"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?w=600&q=80",
+    "in_stock": true
+  },
+  {
+    "id": "watch_proc_054",
+    "name": "boAt Black Dial Digital Watch",
+    "description": "Authentic boAt digital watch with black dial and durable strap.",
+    "category": "watches",
+    "subcategory": "digital",
+    "brand": "boAt",
+    "price": 1195.0,
+    "rating": 4.8,
+    "review_count": 18641,
+    "colors": [
+      "black"
+    ],
+    "sizes": [
+      "Free Size"
+    ],
+    "material": "silicone",
+    "gender": "unisex",
+    "tags": [
+      "water-resistant",
+      "classy",
+      "stylish"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1539185441755-769473a23570?w=600&q=80",
+    "in_stock": true
+  },
+  {
+    "id": "watch_proc_055",
+    "name": "boAt Gold Dial Smartwatch Watch",
+    "description": "Authentic boAt smartwatch watch with gold dial and durable strap.",
+    "category": "watches",
+    "subcategory": "smartwatch",
+    "brand": "boAt",
+    "price": 2499.0,
+    "rating": 4.9,
+    "review_count": 6677,
+    "colors": [
+      "gold"
+    ],
+    "sizes": [
+      "Free Size"
+    ],
+    "material": "silicone",
+    "gender": "unisex",
+    "tags": [
+      "smartwatch",
+      "fitness",
+      "bluetooth"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1579586337278-3befd40fd17a?w=600&q=80",
+    "in_stock": true
+  },
+  {
+    "id": "watch_proc_056",
+    "name": "boAt Silver Dial Chronograph Watch",
+    "description": "Authentic boAt chronograph watch with silver dial and durable strap.",
+    "category": "watches",
+    "subcategory": "chronograph",
+    "brand": "boAt",
+    "price": 899.0,
+    "rating": 4.4,
+    "review_count": 28339,
+    "colors": [
+      "silver"
+    ],
+    "sizes": [
+      "Free Size"
+    ],
+    "material": "silicone",
+    "gender": "unisex",
+    "tags": [
+      "water-resistant",
+      "classy",
+      "stylish"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1524805444758-089113d48a6d?w=600&q=80",
+    "in_stock": true
+  },
+  {
+    "id": "watch_proc_057",
+    "name": "Noise Gold Dial Analog Watch",
+    "description": "Authentic Noise analog watch with gold dial and durable strap.",
+    "category": "watches",
+    "subcategory": "analog",
+    "brand": "Noise",
+    "price": 1795.0,
+    "rating": 4.7,
+    "review_count": 17497,
+    "colors": [
+      "gold"
+    ],
+    "sizes": [
+      "Free Size"
+    ],
+    "material": "leather",
+    "gender": "unisex",
+    "tags": [
+      "water-resistant",
+      "classy",
+      "stylish"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1533139502658-0198f920d8e8?w=600&q=80",
+    "in_stock": true
+  },
+  {
+    "id": "watch_proc_058",
+    "name": "Noise Silver Dial Digital Watch",
+    "description": "Authentic Noise digital watch with silver dial and durable strap.",
+    "category": "watches",
+    "subcategory": "digital",
+    "brand": "Noise",
+    "price": 1195.0,
+    "rating": 4.5,
+    "review_count": 29272,
+    "colors": [
+      "silver"
+    ],
+    "sizes": [
+      "Free Size"
+    ],
+    "material": "silicone",
+    "gender": "unisex",
+    "tags": [
+      "water-resistant",
+      "classy",
+      "stylish"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1542496658-e33a6d0d50f6?w=600&q=80",
+    "in_stock": true
+  },
+  {
+    "id": "watch_proc_059",
+    "name": "Noise Black Dial Smartwatch Watch",
+    "description": "Authentic Noise smartwatch watch with black dial and durable strap.",
+    "category": "watches",
+    "subcategory": "smartwatch",
+    "brand": "Noise",
+    "price": 3999.0,
+    "rating": 4.8,
+    "review_count": 8840,
+    "colors": [
+      "black"
+    ],
+    "sizes": [
+      "Free Size"
+    ],
+    "material": "silicone",
+    "gender": "unisex",
+    "tags": [
+      "smartwatch",
+      "fitness",
+      "bluetooth"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1579586337278-3befd40fd17a?w=600&q=80",
+    "in_stock": true
+  },
+  {
+    "id": "watch_proc_060",
+    "name": "Noise Black Dial Chronograph Watch",
+    "description": "Authentic Noise chronograph watch with black dial and durable strap.",
+    "category": "watches",
+    "subcategory": "chronograph",
+    "brand": "Noise",
+    "price": 3495.0,
+    "rating": 4.9,
+    "review_count": 21765,
+    "colors": [
+      "black"
+    ],
+    "sizes": [
+      "Free Size"
+    ],
+    "material": "silicone",
+    "gender": "unisex",
+    "tags": [
+      "water-resistant",
+      "classy",
+      "stylish"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1524805444758-089113d48a6d?w=600&q=80",
+    "in_stock": true
+  },
+  {
+    "id": "watch_proc_061",
+    "name": "Apple Silver Dial Analog Watch",
+    "description": "Authentic Apple analog watch with silver dial and durable strap.",
+    "category": "watches",
+    "subcategory": "analog",
+    "brand": "Apple",
+    "price": 1795.0,
+    "rating": 4.8,
+    "review_count": 26878,
+    "colors": [
+      "silver"
+    ],
+    "sizes": [
+      "Free Size"
+    ],
+    "material": "leather",
+    "gender": "unisex",
+    "tags": [
+      "water-resistant",
+      "classy",
+      "stylish"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1524805444758-089113d48a6d?w=600&q=80",
+    "in_stock": true
+  },
+  {
+    "id": "watch_proc_062",
+    "name": "Apple Gold Dial Digital Watch",
+    "description": "Authentic Apple digital watch with gold dial and durable strap.",
+    "category": "watches",
+    "subcategory": "digital",
+    "brand": "Apple",
+    "price": 2495.0,
+    "rating": 4.7,
+    "review_count": 11266,
+    "colors": [
+      "gold"
+    ],
+    "sizes": [
+      "Free Size"
+    ],
+    "material": "silicone",
+    "gender": "unisex",
+    "tags": [
+      "water-resistant",
+      "classy",
+      "stylish"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1542496658-e33a6d0d50f6?w=600&q=80",
+    "in_stock": true
+  },
+  {
+    "id": "watch_proc_063",
+    "name": "Apple Gold Dial Smartwatch Watch",
+    "description": "Authentic Apple smartwatch watch with gold dial and durable strap.",
+    "category": "watches",
+    "subcategory": "smartwatch",
+    "brand": "Apple",
+    "price": 3999.0,
+    "rating": 4.5,
+    "review_count": 22613,
+    "colors": [
+      "gold"
+    ],
+    "sizes": [
+      "Free Size"
+    ],
+    "material": "silicone",
+    "gender": "unisex",
+    "tags": [
+      "smartwatch",
+      "fitness",
+      "bluetooth"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1579586337278-3befd40fd17a?w=600&q=80",
+    "in_stock": true
+  },
+  {
+    "id": "watch_proc_064",
+    "name": "Apple Black Dial Chronograph Watch",
+    "description": "Authentic Apple chronograph watch with black dial and durable strap.",
+    "category": "watches",
+    "subcategory": "chronograph",
+    "brand": "Apple",
+    "price": 899.0,
+    "rating": 4.5,
+    "review_count": 12986,
+    "colors": [
+      "black"
+    ],
+    "sizes": [
+      "Free Size"
+    ],
+    "material": "silicone",
+    "gender": "unisex",
+    "tags": [
+      "water-resistant",
+      "classy",
+      "stylish"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1533139502658-0198f920d8e8?w=600&q=80",
+    "in_stock": true
+  },
+  {
+    "id": "watch_proc_065",
+    "name": "Samsung Black Dial Analog Watch",
+    "description": "Authentic Samsung analog watch with black dial and durable strap.",
+    "category": "watches",
+    "subcategory": "analog",
+    "brand": "Samsung",
+    "price": 899.0,
+    "rating": 4.5,
+    "review_count": 13332,
+    "colors": [
+      "black"
+    ],
+    "sizes": [
+      "Free Size"
+    ],
+    "material": "leather",
+    "gender": "unisex",
+    "tags": [
+      "water-resistant",
+      "classy",
+      "stylish"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?w=600&q=80",
+    "in_stock": true
+  },
+  {
+    "id": "watch_proc_066",
+    "name": "Samsung Black Dial Digital Watch",
+    "description": "Authentic Samsung digital watch with black dial and durable strap.",
+    "category": "watches",
+    "subcategory": "digital",
+    "brand": "Samsung",
+    "price": 899.0,
+    "rating": 4.3,
+    "review_count": 33507,
+    "colors": [
+      "black"
+    ],
+    "sizes": [
+      "Free Size"
+    ],
+    "material": "silicone",
+    "gender": "unisex",
+    "tags": [
+      "water-resistant",
+      "classy",
+      "stylish"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1542496658-e33a6d0d50f6?w=600&q=80",
+    "in_stock": true
+  },
+  {
+    "id": "watch_proc_067",
+    "name": "Samsung Gold Dial Smartwatch Watch",
+    "description": "Authentic Samsung smartwatch watch with gold dial and durable strap.",
+    "category": "watches",
+    "subcategory": "smartwatch",
+    "brand": "Samsung",
+    "price": 2999.0,
+    "rating": 4.5,
+    "review_count": 5907,
+    "colors": [
+      "gold"
+    ],
+    "sizes": [
+      "Free Size"
+    ],
+    "material": "silicone",
+    "gender": "unisex",
+    "tags": [
+      "smartwatch",
+      "fitness",
+      "bluetooth"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=600&q=80",
+    "in_stock": true
+  },
+  {
+    "id": "watch_proc_068",
+    "name": "Samsung Silver Dial Chronograph Watch",
+    "description": "Authentic Samsung chronograph watch with silver dial and durable strap.",
+    "category": "watches",
+    "subcategory": "chronograph",
+    "brand": "Samsung",
+    "price": 1795.0,
+    "rating": 4.5,
+    "review_count": 13889,
+    "colors": [
+      "silver"
+    ],
+    "sizes": [
+      "Free Size"
+    ],
+    "material": "silicone",
+    "gender": "unisex",
+    "tags": [
+      "water-resistant",
+      "classy",
+      "stylish"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1533139502658-0198f920d8e8?w=600&q=80",
+    "in_stock": true
+  }
+]
