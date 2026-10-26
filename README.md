@@ -191,7 +191,7 @@ Verify backend health at `http://localhost:8000/api/health`.
 1. Open Chrome and navigate to `chrome://extensions`.
 2. Enable **Developer mode** toggle in top right.
 3. Click **Load unpacked** and select the `extension/` directory:  
-   `C:\Users\Karthikeya Dusi\Desktop\VoiceFilter\extension`
+   `C:\Users\Bhuvana-0406\Desktop\VoiceFilter\extension`
 4. Open **[https://www.amazon.in](https://www.amazon.in)**.
 5. Click the floating **VoiceFilter** mic button (`🎙️`) in the bottom-right corner!
 
